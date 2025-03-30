@@ -1,8 +1,4 @@
-Okay, I can definitely do that. I will provide you with a Markdown version of your father's autobiography, incorporating some basic formatting to make it more readable. Note that, since I don't have explicit instructions on stylistic changes, I'll focus on structural formatting and making some minor edits for clarity (like breaking up overly long sentences) while trying to preserve the original tone and content as faithfully as possible.
 
-This will be a long output, so I'll present it in manageable sections. I will indicate the CHAPTER at the start.
-
-```markdown
 # Naval Aviation of Robert Ewen McGaffin 1942 to 1945
 
 ## CHAPTER ONE: Early Days and a Dream of Flight
