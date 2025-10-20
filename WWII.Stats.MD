@@ -38,6 +38,7 @@ He chose the **Corsair** — and the name "McGaffin" stuck with him for the dura
 ## 🧾 Education & Service Notes
 
 - Attended:
+  - Flint Central High School (Graduated 1942)
   - Iowa University
   - Mt. Pleasant College, Michigan
   - Wooster College, Ohio
