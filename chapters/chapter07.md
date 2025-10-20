@@ -1,19 +1,28 @@
-# Chapter Seven: Advanced Training at Pensacola
+# Chapter Seven: Instrument Flying at N.A.S. Whiting Field Pensacola
 
-## The SNJ Advanced Trainer
-After completing the initial phases at Pensacola, we moved on to the SNJ advanced trainer. This was a more powerful aircraft than the Stearman, with a closed cockpit and retractable landing gear. The SNJ would prepare us for the transition to actual combat aircraft.
+The last flight at Ellyson field was Feb. 5th 1943 and my first flight at whiting field was March 3rd 1943, so you see an entire month went bye doing nothing. That is the reason it took so long to finish at Pensacola.
 
-## Instrument Training
-One of the most challenging aspects was learning to fly solely by instruments. We had to master the radio range navigation system, using the A-N signals to stay on course. The training was intense, with many hours spent under the hood, trusting only our instruments.
+The weather was very bad during my training at Whiting field, seems like a storm went bye every day. The name for the instrument training is called the low frequency range. There is a tower that sends out a signal in a certain area that consists of 4 quadrants with a beam of sound in 4 legs, like a road for driving. In between each quadrant there are 2 radio signals. One is an A and the other is a B. All of this branches out from the tower and one mile from the tower is the field, so if you locate where you are in the air, you can navigate to the field.
 
-## Formation Flying
-Formation flying became more complex in the SNJ. We learned combat formations, section tactics, and how to maintain position in various weather conditions. The discipline required for close formation flying would be essential for our future combat operations.
+We would have classes showing us how to do this and we also got 25 hours in a link trainer and these were operated by women waves. This is how you learned to fly when the weather was bad. When actual flying, the instructor would put you in one of the 4 quadrants. You would have a hood over you head so you could not see out and all the flying would be done by instruments. When the instructor put you in an area, he would say it is all yours and you would have to take him to the field while under the hood. When you got to the field you would tell the instructor that you were over the field and he would open the hood and you better be over the field or you were in trouble. This method was used by the air lines all over the world and I can’t believe there were not more accidents, as every one was going down the same beam or road.
 
-## Night Operations
-Night flying at Pensacola was different from our earlier experiences. We had to master night navigation, formation flying in darkness, and carrier approach patterns. The lights of Pensacola Bay could be disorienting, but they helped prepare us for future night carrier operations.
+When you were following the beam and you passed over the intersection of the 4 beams, the sound of the beam, a steady hum would disappear and you knew you were over the radio station. There was a procedure for letting down to the 8oo foot altitude and you had to recognize this. From there you were one mile to the field.
 
-## Gunnery Training
-We began our first real gunnery training in the SNJ. This involved both air-to-ground and air-to-air target practice. Learning to hit a target while managing all aspects of flying the aircraft was a new challenge that would prove crucial in combat.
+On one of my flights my instructor put me in an area real close to the cone of silence. I went through the cone, recognized it and let down and got to the field with out going down a beam to get there. That would be like getting a hole in one in golf. When we landed the instructor said I was lucky and flunked me, so I had to fly two check rides to pass. I did not get a bad instructor for the check rides and had no trouble and I passed both of the o.k. I am sure there were cadets that went through training who did not have any trouble at all.
+
+In the barracks we had double-decker beds and I had one on the upper level. One night I woke up and the room was full of smoke and there was a fire next to the bed reaching as high as where I was sleeping. The guy in the lower bunk was smoking and fell asleep. His cigarette fell into his clothes on the floor and set the place on fire. The flames were reaching all the way to the ceiling. You should have seen us move.
+
+There were two fields at Whiting and we used one of them. The other field was used to train multi-engine pilots for instruments. I asked one of the instructors if I could go on one of their flights as a passenger and watch the training for one of the cadets. They used a different method of navigation on their flights. This instructor chewed the cadet’s ass out form the time we took off till we landed. I felt sorry for the cadet. No way would I have picked that type of course.
+
+We also had to learn to use the bubble octant. We had to get a fix on 3 different stars and using a table in a book, we could figure where we were. That took some time and traveling at 200 miles an hour, you would not be able to do it fast enough. It would work if you were on a ship out to sea.
+
+When I reported for one of my classes in the link trainer I felt a little tired and told the woman wave that I was tired. She said get in the trainer and go to sleep and she would cover for me. I ended up with 25 hours of training in the link trainer and one hour of sleep.
+
+I was there from March 3rd to May 30TH and flew 51.6 hours which was not much for two months. In the total time at Whiting field I only went up with the instructor two times.
+
+When the airline pilots were using the low frequency range from city to city, they knew where they were and where they were going, not like the cadet who had to find out by certain procedure where they were. If they were in San Francisco, going to Los Angles, they had a map of the western United States and would follow the beam from the San Francisco radio station going to L.A. and would transfer to the radio station in L.A. Every city would have a radio station. The beams all had a number of degrees on the map, so the Airline pilot was not completely in the dark. The FAA changed the system to an instrument call Omni in later years. This was a gage that would tell you the direction straight to the city instead of a radio station to radio station and this opened up the entire area. If J.F.K had some of this training, he would be alive today, and many other beginning pilots.
+
+We finally finished at Whiting field and our next step was to go to the main station Pensacola where we would go through more training, but no flying. Some of the things we were going to do were to take a trip in the Dilbert dunker which is a cockpit of an airplane that was on a high track above a swimming pool and learn how to get out of a sinking plane in the water. We would also be taken up in pressure chamber to 30,000 feet and do some tests there. When I was a kid I listened to Jack Armstrong on the radio and he was always flying the beam. This method did not last long. We would spend about a week at NAS Pensacola before we went on to the final stage of flying.
 
 ---
-[Previous Chapter](chapter06.md) | [Table of Contents](../README.md) | [Next Chapter](chapter08.md) 
+[Previous Chapter](chapter06.md) | [Table of Contents](../README.md) | [Next Chapter](chapter08.md)

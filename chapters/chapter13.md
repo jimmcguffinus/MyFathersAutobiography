@@ -1,19 +1,10 @@
-# Chapter Thirteen: Pacific Operations
+# Chapter Thirteen: Naval Air Station Norfolk, and the Naval Air Station Atlantic City, New Jersey
 
-## Operating in the Pacific
-The vast expanse of the Pacific Ocean became our new home. Navigation was critical - a small error could mean running out of fuel far from the carrier. We learned to rely on our instruments and the ship's radio beacons.
+From the 11th of November to December 2nd when I got orders that detached me from the United States Atlantic Fleet and to proceed to the Naval Air Station Atlantic City, New Jersey and to the port in which fighting Squadron Ninety Seven may be and report to the Commanding Officer of the squadron for duty involving flying under instruction. From now on all my mail and address will be to the Air Force Atlantic Fleet. This set of orders was signed by Patrick N.L. Bellinger, naval aviator No. 8 and if I knew who had signed my orders, I would have found a way to talk to him. NAS Atlantic city was only a short distance form Norfolk to that base. From the time I left NAS Glenview, to Atlantic City, almost a month had gone bye. They assigned us to the BOQ. And before I got to the squadron, a month would go bye and in those 30 days, they couldn’t be more mixed up. We sat around and waited and waited.
 
-## Weather Challenges
-The Pacific weather was unpredictable and often severe. Tropical storms could develop quickly, making carrier operations dangerous or impossible. We learned to respect the weather as much as we respected the enemy.
+LT. Bob Brewer was sent to an air station in New York in a pool to ferry planes to California and that was some hairy experience. He and another Lt. were assigned an F6F Hellcat to fly to Cal. and Bob told me, he could have walked to Cal faster than it took them to fly there. Counting bad weather, stopping for gas and other things, it took them about a week to get there. As soon as they landed, they boarded a C-47 to fly back to N.Y. Then he got orders to a squadron to fly F6F- Hellcats and as soon as he got where the squadron was he put in a bitch, that he had trained to fly F4U-Corsairs and would they please transfer him to a squadron that had Corsairs. Air group 95 was forming and somehow he was transferred to that squadron.
 
-## Squadron Tactics
-Our tactics evolved based on combat experience. The Corsair's capabilities - speed, firepower, and durability - made it an excellent fighter-bomber. We could switch roles from fleet defense to ground attack as needed.
-
-## Close Air Support
-Supporting ground forces became a crucial mission. Working with forward air controllers, we provided close air support to Marines and Army units. The accuracy of our attacks could mean the difference between life and death for troops on the ground.
-
-## Maintenance and Support
-The squadron's success depended as much on our ground crews as on the pilots. Working around the clock in challenging conditions, they kept our aircraft combat-ready. The bond between pilots and maintenance crews was strong.
+I was still on the loose and what happened next, I will never understand. I think a group of us were going to Air group 95. While we were waiting, the Navy decided that some of us were going to the NAS Grosse Ile, Detroit, Michigan. I think at this time we were all in the Air Group 95 at Atlantic City, N.J. Someone decided we would go to NAS Grosse Ile, air station in two different groups and in order to tell who would make the first trip, we pulled names from a hat and I was in the first group. We flew to Detroit in a C-47 which would carry about 30 passengers. I believe this is where the Air Group would be before we would go over seas. This is how the Navy was screwed up. We arrived at the Air Station and were there only 3 days and we got orders to go back to Atlantic City. The second group never arrived. The Air Station was on the Detroit River and was a primary base for training cadets to fly the Bi-plane Stearman. Before this I had orders detaching me from Fighting Squadron 97 to Fighting Squadron 95. These orders were dated December 13th 1944, and this was before I went to Grosse Ile Air Station, which was on the 20th of Dec. These were the orders that were signed by Naval Aviator #8 Patrick N.L Bellenger. We arrived back at Atlantic City the first of January, 1945. I fooled around until the 10th of Jan. when some officer told me to ferry an F6f-Hellcat to the Naval Air Station, Wildwood, NJ Which was at the bottom tip of New Jersey and also close to the Delaware Bay, The Air Station was closer to the Delaware Bay.
 
 ---
-[Previous Chapter](chapter12.md) | [Table of Contents](../README.md) | [Next Chapter](chapter14.md) 
+[Previous Chapter](chapter12.md) | [Table of Contents](../README.md) | [Next Chapter](chapter14.md)

@@ -1,19 +1,22 @@
-# Chapter Eight: Carrier Qualification Training
+# Chapter Eight: Preparing for Combat
 
-## Introduction to Carrier Operations
-The most challenging phase of our training was preparing for carrier operations. Everything we had learned so far would be tested in the demanding environment of landing on a moving deck at sea. The margin for error was zero.
+When we arrived at the main station Pensacola, they put us up in the same old wooden barracks with double-decker bunks. I know we were in a group, but I can’t remember who they were. The base was very large and there was a full hospital, a full size golf course, swimming pools, tennis courts and places to play basketball. All of the bases had teams that played all of the sports, consisting of enlisted sailors, or permanent officers or sailor of the base. The cadets would not play on any of those teams as they moved around to much. The field was named N.A.S. Chevalier after naval aviator number 7 who was a flyer in WW1 and did many of the early tests of flying for the Navy.
 
-## Field Carrier Landing Practice
-Before attempting actual carrier landings, we spent countless hours practicing at auxiliary fields. Landing Signal Officers (LSOs) would guide us through simulated carrier approaches, teaching us the precise glide slope and timing needed for carrier landings.
+The only cadets who flew at the base were the ones who were going to be flying and landing on the water. These were the observation pilots and the flying boat pilots, both 2 engines and 4 engines. A couple of years before this, all cadets learned to fly off the water and all the other phases at this main station.
 
-## First Carrier Approaches
-The first time seeing an actual carrier from the air was intimidating. The deck looked impossibly small from our approach altitude. We had to trust our training and the LSO's signals, fighting our natural instinct to flare on landing.
+The station also dates to before the Civil War and was taken over by the Confederates during the war. The base was a navy yard at that time and some of the buildings are still there. The base was one of the largest in the United States and dates to the year of 1550 and was called the Fort San Carlos and is on the N.A.S. Pensacola property. It changed hands from the Spanish to the French and back to the Spanish down through the years. It was captured by the British in 1815 and then returned to the Spanish in 1819. Fort Barrancas was built in 1839 in front of Fort San Carlos. During the Civil War it was captured by the Florida volunteers in 1861 and it was evacuated in 1862. Both Forts are still there and is close to the shore.
 
-## Qualifying in the SNJ
-Our first actual carrier landings were made in the SNJ trainer. Each of us had to complete a series of successful landings and takeoffs to qualify. The tension in the ready room before our qualification flights was palpable.
+We were sent to the main air station to get training in the high altitude chamber and to ride the Dilbert Dunker which was the cockpit of an airplane on a track in the station swimming pool located right on the beach. You would be strapped in the cockpit high up on this track. They would release it and it would slide down the track and crash into the pool and turn upside down and go to the bottom of the pool. Then you would undo your harness and leave the plane. If you would see the movie The Officer and a Gentleman, they used that same method in their training, but was over done as to the risk, It was no big deal. The swimming pool was located in a large building on the beach. I believe they are still using it today.
 
-## Moving to Combat Aircraft
-After qualifying in the SNJ, we began transitioning to actual combat aircraft. The procedures were the same, but everything happened faster in the more powerful fighters and dive bombers. Each type of aircraft presented its own challenges for carrier operations.
+In between our tests we would go to the horse riding stable. The horses would travel a route around the golf course which was all fenced in. The big trouble was the horses would want to go back to the stables. While you were riding the course, the horses would try to rub you off on the fences. I only rode the horses one time as that was enough.
+
+We played the golf course a couple of times, but I didn’t know what I was doing as I had never played before. The base had a very nice club house, just as well as all of the other facilities. I heard that later on the club house burned down. This is the only base that had that many things to do. All of the other bases were commissioned from 1941 to the then present date. The sailors who were stationed at this base sure had a good deal.
+
+Our next assignment was to the oxygen chamber. This was a very important phase as if something went wrong with the oxygen in the plane you could die within 60 seconds. There were about 12 of us in one group to take the test. They took us to a simulated height of 30,000 feet. We all wore oxygen masks. When we were at the altitude, they asked one of us to volunteer to take your mask off and perform some tests. I was the one to volunteer and looking back I was a little stupid to do this. They gave me a deck of cards and a cardboard box with a slot in it. I was suppose to take a card from the deck, hold it up, name it and put it in the slot of the box. I can remember naming about 2 cards when I woke up. All of the cadets were laughing. I guess I started to throw the cards around the chamber. It took only about 15 seconds before I passed out. In later years, there were cases of planes who lost there pressurization and their oxygen. You don’t know this is happening and the people in the planes died. This is what happened to Payne Stewart the golfer.
+
+The next test in the chamber was to let us simulate a free fall from the 30,000 feet to sea level. If some of the guys would get an ear ache, they would stop the descent. We knew if this happened to us we would suffer the pain and not tell anyone for this would wash you out of the program. I was lucky as I had no trouble.
+
+From this point on will be the most exciting and will be more danger. I was trying to show some pictures, but was having trouble installing them, so at the end of this story, I will print all of the pictures and tell where they will go in order. There will have to be a lot of editing as there are a lot of mistakes in spelling and grammar. When I graduate I will be coming back to this air station. And to be designated a Naval Aviator. We will get our commission and wings from the commandant and admiral of the station.
 
 ---
-[Previous Chapter](chapter07.md) | [Table of Contents](../README.md) | [Next Chapter](chapter09.md) 
+[Previous Chapter](chapter07.md) | [Table of Contents](../README.md) | [Next Chapter](chapter09.md)
