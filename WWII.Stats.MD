@@ -33,6 +33,13 @@ He chose the **Corsair** — and the name "McGaffin" stuck with him for the dura
 | **Service Period**           | Jan 5, 1943 – Nov 21, 1945                  |
 | **Training Milestones**      | Passed U.S. Naval Aviation Swimming Test    |
 
+### Squadron Details: VBF-95 "Wright's Raiders"
+- **Air Group:** Carrier Air Group 95 (CAG-95)
+- **Commanding Officer:** LCDR Spencer D. Wright
+- **Primary Aircraft:** F4U Corsair
+- **Training Station:** NAS Hilo, Hawaii
+- **Role:** The squadron was formed in early 1945 for advanced combat training. They were preparing for deployment to the Pacific theater when the war ended.
+
 ---
 
 ## 🧾 Education & Service Notes
