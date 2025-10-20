@@ -88,4 +88,6 @@ He chose the **Corsair** — and the name "McGaffin" stuck with him for the dura
 - **Legacy:**  
   His life was a living miracle of precision, honor, and bravery — soaring into history and into the hearts of generations.
 
+  Earning his wings at just 20 years and 3 months old, he was in the youngest tier of Naval Aviators in World War II. This placed him among an elite group of young men entrusted to fly one of the most powerful and demanding fighter planes of the era, the F4U Corsair.
+
 > "Lord, when my soul takes flight, may it rise swiftly to live forever in your love and care." 
